@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/27543444/README.1.md)
+
 # Hey, soy Andrés 👋
 
 ```javascript
