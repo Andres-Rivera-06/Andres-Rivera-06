@@ -47,9 +47,9 @@ const andres = {
 
 <div align="center">
 
-![Andres's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres-Rivera-06&show_icons=true&theme=tokyonight&hide_border=true)
+![Andres's GitHub Stats]([https://andres-readme-stats.vercel.app/api?username=Andres-Rivera-06&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-Rivera-06&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages]([https://andres-readme-stats.vercel.app/api/top-langs/?username=Andres-Rivera-06&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
