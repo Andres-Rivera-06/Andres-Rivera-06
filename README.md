@@ -1,4 +1,4 @@
-# Hey, soy Andrés 👋
+# Hey, soy Andres 👋
 
 ```javascript
 const andres = {
@@ -55,7 +55,7 @@ const andres = {
 
 <div align="center">
 
-![Estadísticas de Andrés](https://andres-readme-stats.vercel.app/api?username=Andres-Rivera-06&show_icons=true&theme=tokyonight&hide_border=true&locale=es&custom_title=Estad%C3%ADsticas%20de%20Andr%C3%A9s)
+![Estadísticas de Andres](https://andres-readme-stats.vercel.app/api?username=Andres-Rivera-06&show_icons=true&theme=tokyonight&hide_border=true&locale=es&custom_title=Estad%C3%ADsticas%20de%20Andr%C3%A9s)
 
 ![Lenguajes más usados](https://andres-readme-stats.vercel.app/api/top-langs/?username=Andres-Rivera-06&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
