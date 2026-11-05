@@ -5,7 +5,7 @@
 const andres = {
   role: "Full Stack Developer Jr.",
   mobile: "React Native 📱",
-  status: "Construyendo cosas, rompiendo cosas, arreglando cosas 🔧",
+  web: "Typescript, React, javascript"
 };
 ```
 
@@ -34,7 +34,6 @@ const andres = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,29 +42,6 @@ const andres = {
 
 ---
 
-## 🏛️ Arquitectura & Buenas Prácticas
-
-Más allá del código...
-
-```
-📦 src
- ┣ 📂 domain           ← Entidades, Value Objects, repositorios (interfaces)
- ┃ ┣ 📂 entities           DDD puro — sin dependencias externas
- ┃ ┗ 📂 value-objects
- ┣ 📂 application      ← Casos de uso, puertos de entrada
- ┃ ┗ 📂 use-cases
- ┣ 📂 infrastructure   ← Adaptadores: DB, APIs, frameworks
- ┃ ┣ 📂 persistence
- ┃ ┗ 📂 http
- ┗ 📂 presentation     ← Controllers, DTOs, UI
-```
-
-- 🔷 **Arquitectura Hexagonal** — El dominio no sabe nada del mundo exterior. Los adaptadores sí.
-- 📚 **Domain-Driven Design (DDD)** — Entidades, Value Objects, Aggregates y lenguaje ubicuo.
-- 🧩 **NestJS** como framework backend para estructurar módulos de forma limpia.
-- ☁️ **AWS** — Despliegues con Lambda (serverless), almacenamiento en S3 y servicios cloud en general.
-
----
 
 ## 📊 GitHub Stats
 
